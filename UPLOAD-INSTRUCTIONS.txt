@@ -1,0 +1,31 @@
+ALIAPPS1 WEBSITE — UPLOAD INSTRUCTIONS
+
+Upload ALL files from this package to the ROOT of your GitHub repository.
+
+Required files already in your repository:
+- aliapps1-banner.jpg
+- aliapps1-logo.jpg
+
+Replace these three files:
+- index.html
+- styles.css
+- script.js
+
+Add these four screenshot files:
+- focus-champion-home.png
+- focus-champion-history.png
+- global-task-planner-home.png
+- global-task-planner-board.png
+
+Final repository structure:
+aliapps1-banner.jpg
+aliapps1-logo.jpg
+index.html
+styles.css
+script.js
+focus-champion-home.png
+focus-champion-history.png
+global-task-planner-home.png
+global-task-planner-board.png
+
+Do not create an assets folder. All files stay in the repository root.
